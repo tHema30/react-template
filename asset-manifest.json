@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-template/static/css/main.8cd247fa.css",
+    "main.js": "/react-template/static/js/main.09b3ac01.js",
+    "static/js/787.4033129f.chunk.js": "/react-template/static/js/787.4033129f.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/react-template/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/react-template/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/react-template/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/react-template/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/about.jpg": "/react-template/static/media/about.20041ff454de306b64ed.jpg",
+    "static/media/bootstrap-icons.woff?": "/react-template/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/react-template/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/bootstrap-icons.woff2?": "/react-template/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/hero-img.png": "/react-template/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
+    "static/media/footer-bg.png": "/react-template/static/media/footer-bg.c2aae576a94b37c65f8f.png",
+    "index.html": "/react-template/index.html",
+    "static/media/team-shape.svg": "/react-template/static/media/team-shape.1f61b646ef96bc3ea57d.svg",
+    "main.8cd247fa.css.map": "/react-template/static/css/main.8cd247fa.css.map",
+    "main.09b3ac01.js.map": "/react-template/static/js/main.09b3ac01.js.map",
+    "787.4033129f.chunk.js.map": "/react-template/static/js/787.4033129f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cd247fa.css",
+    "static/js/main.09b3ac01.js"
+  ]
+}
